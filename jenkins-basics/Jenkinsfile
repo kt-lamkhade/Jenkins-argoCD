@@ -37,7 +37,7 @@ pipeline {
     post {
         always {
             // Optional: Cleanup or any post-build actions can be added here
-            echo 'Pipeline execution completed.'
+            echo 'Pipeline Execution Completed.'
         }
     }
 }
